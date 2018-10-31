@@ -1,8 +1,13 @@
+
+
 El Proyecto consta del siguiente tema:
 Secciones de hitos turísticos,arquitectura, lugares imperdibles y contacto.
 Contener al menos 5 páginas.
 Colores en torno a los que la Municipalidad de Quilicura utiliza(es decir colores institucionales de preferencia)
 Fotos y logos institucionales administrados por internet.
+2 Plugins: Contact Form 7; Smart Social Media Widget; 
+3 Post type en página principal
+
 
 El proyecto debe considerar la implementación de los siguientes items:
 Distribución (0.5 pts)
